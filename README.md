@@ -5,8 +5,6 @@
 
 **LOGIN 	:**	BSMbatM
 
-**MDP	:**	Same as usual
-
 **MAIL	:**	emmanuel.chanrion@neel.cnrs.fr
 
 
