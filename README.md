@@ -3,24 +3,24 @@
 ## COMPTE GROUPE
 *Main user - common for the whole group*
 
-login 	:	BSMbatM
+**login 	:**	BSMbatM
 
-mdp	:	Same as usual
+**mdp	:**	Same as usual
 
-mail	:	emmanuel.chanrion@neel.cnrs.fr
+**mail	:**	emmanuel.chanrion@neel.cnrs.fr
 
 
 ## COMPTE PERSO
 *List of every users*
 
-Manu	:	echanrion
+**Manu	:**	echanrion
 
 
 ## ORGA
 *Should contain every projects in the group*
 
-url	:	https://github.com/OrgaSoftwareBatM
+**url	:**	https://github.com/OrgaSoftwareBatM
 
 
 ## TUTORIAL
-url	:	https://guides.github.com/activities/hello-world/
+**url	:**	https://guides.github.com/activities/hello-world/
