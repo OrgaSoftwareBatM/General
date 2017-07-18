@@ -9,10 +9,10 @@
 
 
 ## COMPTE PERSO
-*List of every users*
+*List of users : account names*
 
 **MANU	:**	echanrion
-
+**MARTIN	:**	beneminzl
 
 ## ORGA
 *Should contain every projects in the group*
